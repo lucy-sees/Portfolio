@@ -1,58 +1,139 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Porfolio
+# 📗 Table of Contents
 
-For the first milestone in the process of creating your portfolio website, you will:
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-set up a new repository and prepare it for development using best practices (e.g. linters).
-build the first 2 sections of the mobile website using the template you chose in the previous step.
+# 📖 Portfolio <a name="about-project"></a>
+
+** This is the first section of Portfolio set up and Mobile first Day 3 project of week one at Microverse.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Markup-Languages</summary>
+  <ul>
+    <li><a href="https://">HTML</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Styling</summary>
+  <ul>
+    <li><a href="#">CSS</a></li>
+  </ul>
+</details>
+
+</details>
 
 
-## Built With
-
-- HTML and CSS
-
-## Live Demo (if available)
-
-[Live Demo Link](https://lucy-sees.github.io/Portfolio/)
+### Key Features <a name="key-features"></a>
 
 
-## Getting Started
+- **HTML**
+- **CSS**
+- **Linters**
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Live Demo <a name="live-demo"></a>
 
-To get a local copy up and running follow these simple example steps.
+- Live Demo Link <a href="https://lucy-sees.github.io/Portfolio/">
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
+In order to run this project you need:
+- [Webhint](https://webhint.io/)
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/).
+- [Stylelint](https://stylelint.io/)
+
+
 ### Setup
 
-### Install
+Clone this repository to your desired folder: [git clone](https://github.com/lucy-sees/Portfolio)
 
 ### Usage
 
-### Run tests
+Download or fork the repo Open the [index.html](https://github.com/lucy-sees/Portfolio/index.html) file with your browser of choice.
 
-### Deployment
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-👤 **Author**
+## 👥 Author <a name="authors"></a>
+
+
+👤 **Lucy W. Mwangi**
 
 - GitHub: [@githubhandle](https://github.com/lucy-sees)
 - Twitter: [@twitterhandle](https://twitter.com/_The_LoneWolf)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucy-w-mwangi-83a31b11b/)
 
 
-## 🤝 Contributing
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## 🔭 Future Features <a name="future-features"></a>
 
-## Show your support
+- [ ] **JS**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Acknowledgments
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+If you like this project click a ⭐️ 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank [Microverse Tutorials](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/hello_microverse_project)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License
+
