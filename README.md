@@ -24,7 +24,7 @@
 
 # 📖 Portfolio <a name="about-project"></a>
 
-** This is the first section of Portfolio set up and Mobile first Day 3 project of week one at Microverse.
+** This is the last section of Portfolio set up and Mobile first Day 4 project of week one at Microverse.
 
 ## 🛠 Built With <a name="built-with"></a>
 
