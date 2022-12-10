@@ -58,7 +58,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Live Demo Link <a href="https://lucy-sees.github.io/Portfolio/">
+- [Live Demo Link](https://lucy-sees.github.io/Portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
