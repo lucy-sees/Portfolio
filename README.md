@@ -41,12 +41,9 @@
   </ul>
 </details>
 
-
-
 ### Key Features <a name="key-features"></a>
 
 > Homepage Section - Displays the profile of the portfolio.
-
 
 - **[Display header with a red text "Portfolio: setup and mobile first!"]**
 
@@ -89,12 +86,10 @@ Web Browser
 👤 **Author**
 
 - GitHub: [@lucy-sees](https://github.com/lucy-sees)
-- Twitter: [@_The_LoneWolf](https://twitter.com/_The_LoneWolf)
+- Twitter: [@\_The_LoneWolf](https://twitter.com/_The_LoneWolf)
 - LinkedIn: [LinkedIn]([https://www.linkedin.com/in/lucy-w-mwangi-83a31b11b/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -105,7 +100,6 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
-
 
 If you like this project give it a star!!!
 
