@@ -52,8 +52,6 @@ body {
     margin-top: 10px;
   }
 
-
-
   .main ul {
     display: flex;
     align-items: center;
@@ -72,7 +70,6 @@ body {
   .media-icons a {
     color: #505f79;
   }
-
 
   .social h3 {
     font-size: 16px;
