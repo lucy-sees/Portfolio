@@ -25,19 +25,13 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-
-
 # 📖 [Portfolio: setup and mobile first] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[Portfolio: setup and mobile first]** is a simple project to help me to get familiar with the basic tools I needed to learn and put into practice in this project
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -52,12 +46,11 @@
 ### Key Features <a name="key-features"></a>
 
 > Homepage Section - Displays the profile of the portfolio.
-> Work and About Me Section
+
 
 - **[Display header with a red text "Portfolio: setup and mobile first!"]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -66,8 +59,6 @@
 - [Live Demo Link](https://lucy-sees.github.io/Portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -95,7 +86,6 @@ Web Browser
 
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 **Author**
 
 - GitHub: [@lucy-sees](https://github.com/lucy-sees)
@@ -114,8 +104,6 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ## ⭐️ Show your support <a name="support"></a>
 
 
@@ -123,12 +111,8 @@ If you like this project give it a star!!!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- LICENSE -->
-
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/lucy-sees/Portfolio/blob/96aeb5eed7d6fda1d3b906a5f44a37a454f2fe7c/LICENSE) licensed.
+This project is [MIT](https://github.com/lucy-sees/Portfolio/blob/7e0a6627370a0d251e4dcaf395c7356f7024d373/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
