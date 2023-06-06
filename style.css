@@ -289,7 +289,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 20px;
-    margin-top: 0 auto;
+    margin-top: 30px;
   }
 
   .btn.btn-default.btn-hover-2.btn-pressed {
@@ -328,7 +328,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 0 vh;
   }
 
   .slider-image {
