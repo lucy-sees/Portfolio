@@ -292,7 +292,7 @@ body {
     margin-top: 30px;
   }
 
-  .btn.btn-default.btn-hover-2.btn-pressed {
+  .btn.btn-default.btn-hover.btn-pressed {
     display: flex;
     flex-direction: row;
     text-align: center;
@@ -340,6 +340,16 @@ body {
   }
 
   /* BUTTON STYLES */
+  .submit-btn:enabled {
+    background: #fff;
+    color: #7f8cff;
+  }
+
+  .submit-btn:disabled {
+    background: #c1c7d0;
+    color: #fff;
+  }
+
   .submit-btn:hover {
     background-color: #6070ff;
     color: #fff;
@@ -347,25 +357,37 @@ body {
 
   .submit-btn:active {
     transform: scale(1.1);
-    background: #ffc898;
-    color: #6070ff;
+    background: #2230d2;
+    color: #fff;
     -webkit-transform: scale(1);
   }
 
-  .btn.btn-default.btn-hover-2.btn-pressed:hover {
+  .btn.btn-default.btn-hover:enabled {
+    background: #fff;
+    color: #7f8cff;
+  }
+
+  .btn.btn-default.btn-hover:disabled {
+    background: #fff;
+    color: #c1c7d0;
+    border: 1px solid #c1c7d0;
+    border-radius: 8px;
+  }
+
+  .btn.btn-default.btn-hover:hover {
     background-color: #6070ff;
     color: #fff;
     border-color: #fff;
   }
 
-  .btn.btn-default.btn-hover-2.btn-pressed:active {
+  .btn.btn-default.btn-hover.btn-pressed:active {
     transform: scale(1.1);
-    background: #ffc898;
-    color: #6070ff;
+    background: #2230d2;
+    color: #fff;
     -webkit-transform: scale(1);
   }
 
-  .btn.btn-default.btn-hover-2.btn-pressed:focus {
+  .btn.btn-default.btn-hover.btn-pressed:focus {
     outline: none;
     box-shadow: none;
   }
