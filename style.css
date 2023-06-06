@@ -338,4 +338,35 @@ body {
   form {
     margin-top: 2%;
   }
+
+  /* BUTTON STYLES */
+  .submit-btn:hover {
+    background-color: #6070ff;
+    color: #fff;
+  }
+
+  .submit-btn:active {
+    transform: scale(1.1);
+    background: #ffc898;
+    color: #6070ff;
+    -webkit-transform: scale(1);
+  }
+
+  .btn.btn-default.btn-hover-2.btn-pressed:hover {
+    background-color: #6070ff;
+    color: #fff;
+    border-color: #fff;
+  }
+
+  .btn.btn-default.btn-hover-2.btn-pressed:active {
+    transform: scale(1.1);
+    background: #ffc898;
+    color: #6070ff;
+    -webkit-transform: scale(1);
+  }
+
+  .btn.btn-default.btn-hover-2.btn-pressed:focus {
+    outline: none;
+    box-shadow: none;
+  }
 }
