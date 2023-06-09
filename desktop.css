@@ -3,7 +3,9 @@
   /* navbar starts */
   body {
     margin: 0;
+    padding: 0;
     background-color: #fff;
+    font-family: "Poppins", sans-serif;
   }
 
   /* Navbar styles */
@@ -121,10 +123,9 @@
 
   /* work section */
   .works {
-    display: grid;
-    height: 100%;
+    display: flex;
+    flex-direction: column;
     grid-template-columns: 1fr;
-    row-gap: 4.5rem;
     padding-top: 10%;
     padding-left: 6%;
     padding-right: 6%;
@@ -137,11 +138,14 @@
   }
 
   .cards-desktop {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     background: #fff;
     border: 1px solid #dfe1e6;
     border-radius: 1.6rem;
     padding: 1.9%;
-    display: flex;
     justify-content: space-evenly;
   }
 
@@ -255,11 +259,14 @@
   }
 
   .cards-desktop-second {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     background: #fff;
     border: 1px solid #dfe1e6;
     border-radius: 1.6rem;
     padding: 1.9%;
-    display: flex;
     justify-content: space-evenly;
   }
 
@@ -374,14 +381,19 @@
 
   /* About myself starts */
   .container-about {
-    width: auto;
+    width: 100vw;
+    margin: 0%;
+    justify-content: center;
+    align-self: center;
     padding-top: 11%;
     padding-left: 6%;
     padding-right: 6%;
     padding-bottom: 13%;
     display: flex;
+    flex-direction: row;
     background-color: #fff;
     border-top-right-radius: 120px;
+    flex-basis: 50%;
   }
 
   .card-about {
@@ -442,6 +454,7 @@
 
   .languages-frameworks {
     width: 38%;
+    flex-basis: 50%;
   }
 
   .languages-frameworks-list {
@@ -516,11 +529,14 @@
     font-size: 1.25rem;
   }
 
+
   /* Contact me starts */
   .contact-me {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    width: 100vw;
+    margin: 0%;
+    align-self: center;
     background-color: #6070ff;
     background-image: url(./Assets/images/contact\ form\ background\ shapes-desktop.png);
     background-position: 100% 50%;
@@ -545,7 +561,6 @@
     font-weight: 700;
     font-size: 2.5rem;
     padding-top: 10%;
-    margin-block-end: 0;
   }
 
   .contact-form {
@@ -607,4 +622,9 @@
   }
 
   /* Contact me ends */
+
+  .wrapper-about-contact {
+    display: grid;
+    justify-content: center;
+  }
 }
