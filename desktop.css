@@ -126,6 +126,7 @@
     display: flex;
     flex-direction: column;
     grid-template-columns: 1fr;
+    row-gap: 4.5rem;
     padding-top: 10%;
     padding-left: 6%;
     padding-right: 6%;
@@ -253,9 +254,15 @@
     color: #fff;
   }
 
-  .user-buttons-desktop:focus {
+  .user-buttons-desktop:active {
+    transform: scale(1.1);
     background: #2230d2;
     color: #fff;
+    -webkit-transform: scale(1);
+  }
+
+  .user-buttons-desktop:focus {
+    outline: none;
   }
 
   .cards-desktop-second {
@@ -374,9 +381,15 @@
     color: #fff;
   }
 
-  .user-buttons-desktop-second:focus {
+  .user-buttons-desktop-second:active {
+    transform: scale(1.1);
     background: #2230d2;
     color: #fff;
+    -webkit-transform: scale(1);
+  }
+
+  .user-buttons-desktop-second:focus {
+    outline: none;
   }
 
   /* About myself starts */
@@ -431,25 +444,6 @@
 
   hr {
     display: none;
-  }
-
-  .resume-btn {
-    width: 11rem;
-    padding: 0.8rem;
-    margin-bottom: 6%;
-    border: 2px solid #6070ff;
-    border-radius: 0.7rem;
-    color: #396df2;
-    font-weight: 500;
-    font-size: 1.1rem;
-    cursor: pointer;
-    background: #fff;
-  }
-
-  .resume-btn:hover {
-    background: #6070ff;
-    box-shadow: 0 8px 16px rgba(64, 83, 252, 0.24);
-    color: #fff;
   }
 
   .languages-frameworks {
@@ -607,18 +601,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-  }
-
-  .submit-btn {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .submit-btn:hover {
-    background: #6070ff;
-    box-shadow: 0 8px 16px rgba(64, 83, 252, 0.24);
-    color: #fff;
   }
 
   /* Contact me ends */
