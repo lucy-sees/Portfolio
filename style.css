@@ -218,6 +218,9 @@ a {
 /* About Section */
 
 .container-about {
+  width: 100%;
+  margin: 0;
+  padding: 0;
   padding: 114px 24px;
   align-items: center;
   margin-top: 100px;
@@ -337,7 +340,6 @@ a {
   border-top-left-radius: 120px;
   padding: 114px 24px;
   background-position: 100% 10%;
-  height: max-content;
 }
 
 .contact-me h1 {
