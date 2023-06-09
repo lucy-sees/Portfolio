@@ -177,6 +177,22 @@ a {
   margin-top: 10px;
 }
 
+.text-1 {
+  color: #344563;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.text-2 {
+  color: #7a869a;
+  font-size: 13px;
+}
+
+.text-3 {
+  color: #7a869a;
+  font-size: 13px;
+}
+
 .language-categories {
   display: flex;
   align-items: center;
