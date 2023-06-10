@@ -1829,7 +1829,7 @@
   0% {
     -webkit-transform: translate3d(0, -100%, 0);
     transform: translate3d(0, -100%, 0);
-    visibility: visible;
+    opacity: 1;
   }
 
   to {
@@ -1847,7 +1847,7 @@
   0% {
     -webkit-transform: translate3d(-100%, 0, 0);
     transform: translate3d(-100%, 0, 0);
-    visibility: visible;
+    opacity: 1;
   }
 
   to {
@@ -1865,7 +1865,7 @@
   0% {
     -webkit-transform: translate3d(100%, 0, 0);
     transform: translate3d(100%, 0, 0);
-    visibility: visible;
+    opacity: 1;
   }
 
   to {
@@ -1883,7 +1883,7 @@
   0% {
     -webkit-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
-    visibility: visible;
+    opacity: 1;
   }
 
   to {
@@ -1904,7 +1904,7 @@
   }
 
   to {
-    visibility: hidden;
+    opacity: 0;
     -webkit-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
   }
@@ -1922,7 +1922,7 @@
   }
 
   to {
-    visibility: hidden;
+    opacity: 0;
     -webkit-transform: translate3d(-100%, 0, 0);
     transform: translate3d(-100%, 0, 0);
   }
@@ -1940,7 +1940,7 @@
   }
 
   to {
-    visibility: hidden;
+    opacity: 0;
     -webkit-transform: translate3d(100%, 0, 0);
     transform: translate3d(100%, 0, 0);
   }
@@ -1958,7 +1958,7 @@
   }
 
   to {
-    visibility: hidden;
+    opacity: 0;
     -webkit-transform: translate3d(0, -100%, 0);
     transform: translate3d(0, -100%, 0);
   }
