@@ -255,10 +255,10 @@
   }
 
   .user-buttons-desktop:active {
+    -webkit-transform: scale(1);
     transform: scale(1.1);
     background: #2230d2;
     color: #fff;
-    -webkit-transform: scale(1);
   }
 
   .user-buttons-desktop:focus {
@@ -382,10 +382,10 @@
   }
 
   .user-buttons-desktop-second:active {
+    -webkit-transform: scale(1);
     transform: scale(1.1);
     background: #2230d2;
     color: #fff;
-    -webkit-transform: scale(1);
   }
 
   .user-buttons-desktop-second:focus {
