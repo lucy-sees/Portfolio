@@ -59,31 +59,79 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-Install Git Bash, Web browser and code editor
+
+Installation of Git
+installation of NPM
+a working browser
+live server
+Internet connection 
+A code editor like Visual Studio Code are required.
 
 ### Setup
 
 Clone this repository to your desired folder:
-cd my-folder
-git clone git@github.com:myaccount/https://github.com/lucy-sees/Portfolio.git
 
+
+```sh
+  cd my-folder(in your computer machine)
+  git clone git@github.com:Fentahunn/Hello-microverse1.git
+```
+
+
+### Install
+
+Install this project with:
+
+
+```sh
+  cd my-project
+  To install Webhint
+  npm init -y
+  npm install --save-dev hint@7.x
+  To install Stylelint
+  npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+
+```
+
+### Usage
+
+To run the project, open the project by launching the Live Server plugging in visual studio code.
+
+### Usage
+
+To run the project, follow these steps:
+- Open the cloned repository folder in your preferred code editor.
+- Locate the index.html file and open it in a web browser.
+
+
+### Run tests
+
+ To run tests for this project, execute the following command
+
+
+```sh
+npm test
+
+```
 ### Deployment
 
 You can deploy this project using:
-Web Browser
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+```sh
+npm run build
+npm run deploy
+
+```
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author**
+👤 **Lucy W. Mwangi**
 
 - GitHub: [@lucy-sees](https://github.com/lucy-sees)
 - Twitter: [@\_The_LoneWolf](https://twitter.com/_The_LoneWolf)
